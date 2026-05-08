@@ -23,7 +23,7 @@ repository               : "nicholasrounding/nicholasrounding.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Nicholas Rounding"
   pronouns         : "he/him"  
   bio              : "PhD candidate at ROA, Maastricht University. Economics of AI, technological change, and labor markets."
