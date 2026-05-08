@@ -17,9 +17,6 @@ You can download my CV [here](/files/CV.pdf).
 <br><br><br><br><br>
 <br><br><br><br><br>
 <br><br><br><br><br>
-<br><br><br><br><br>
-
-
 
 
 
