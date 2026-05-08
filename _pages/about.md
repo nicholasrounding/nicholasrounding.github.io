@@ -12,3 +12,25 @@ I am a Postdoctoral researcher at ROA, Maastricht University. My research focuse
 Previously, I studied political science and sustainable development, which informs my interest in the broader societal implications of technological change and the future of our planet. 
 
 You can download my CV [here](/files/CV.pdf).
+<br><br><br><br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
