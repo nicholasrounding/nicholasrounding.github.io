@@ -1,11 +1,10 @@
 ---
 title: "Robots or Workers? Minimum Wage Effects on Routine Employment in Germany"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/minimum_wage
-excerpt: "This paper investigates whether Germany's 2015 national minimum wage introduction induced firms to substitute capital for routine labour. Combining administrative data from the Institute for Employment Research (IAB) with occupation-level routine task classifications, I employ two complementary empirical approaches: an individual-level analysis tracking employment and wage outcomes for workers in routine versus non-routine occupations, and an establishment-level analysis examining changes in the routine share of employment and wage bills. At the individual level, routine workers exposed to the minimum wage experienced no differential employment effects compared to non-routine workers, though they saw approximately 1 percentage point lower hourly wage growth, a gap likely attributable to higher baseline wages and greater full-time employment rates rather than substitution. Both groups reallocated to higher-quality establishments, with stronger effects for non-routine workers who started at lower-quality firms. At the establishment level, minimum wage exposure bore no relationship to reductions in routine employment or wage bill shares, even three years post-implementation. These findings contrast with U.S. evidence linking minimum wages to automation-driven employment losses, potentially reflecting Germany's cleaner identification setting and distinct labour market institutions. Overall, the results suggest German firms absorbed higher labour costs through margins other than capital-labour substitution in the short run."
-paperurl: 'https://academicpages.github.io/files/Minimum_Wage.pdf'
+excerpt: "This paper investigates whether Germany's 2015 minimum wage induced firms to substitute capital for routine labour. Using IAB administrative data, I find no evidence of capital-labour substitution at either the individual or establishment level."
 date: 2025-08-01
+venue: 'Working Paper'
+paperurl: '/files/Minimum_Wage.pdf'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
