@@ -11,7 +11,7 @@ I am a Postdoctoral researcher in the [ai:conomics](https://aiconomics.eu/en) re
 
 Previously, I studied political science and sustainable development, which informs my interest in the broader societal implications of technological change and the future of our planet. 
 
-You can download my CV [here](/files/NicholasRounding_CV-3.pdf)
+You can download my CV [here](/files/NicholasRounding_CV.pdf)
 <br><br><br><br><br>
 <br><br><br><br><br>
 <br><br><br><br><br>
