@@ -88,6 +88,8 @@ publication_category:
     title: 'Preprints'
   working_papers:
     title: 'Ongoing Research'
+  policy_briefs:
+    title: 'Policy Briefs & Reports'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
